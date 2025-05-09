@@ -1,4 +1,4 @@
-module github.com/chrismoy/gosseract
+module github.com/chrismoy/gosseract/v2
 
 go 1.18
 
