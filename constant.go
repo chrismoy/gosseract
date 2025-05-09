@@ -75,4 +75,7 @@ const (
 	// There is a known issue in 4.00 with LSTM
 	// https://github.com/tesseract-ocr/tesseract/issues/751
 	TESSEDIT_CHAR_BLACKLIST SettableVariable = "tessedit_char_blacklist"
+
+	TESSEDIT_PSM SettableVariable = "tessedit_pageseg_mode"
+	TESSEDIT_OEM SettableVariable = "tessedit_ocr_engine_mode"
 )
